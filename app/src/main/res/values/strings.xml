@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Digi kala_Profile</string>
+
+    //this is test String
+    <string name="vitalik_text">This is Vitalik Buterin</string>
+    <string name="button_text">Call Vitalik</string>
+    <string name="user_name">متین میقانی</string>
+    <string name="user_phone">09115230019</string>
+    <string name="digiclub_text">فعالسازی دیجی کلاب</string>
+    <string name="wallet_text">-تومان</string>
+    <string name="sefaresh_text">سفارش های من</string>
+    <string name="pardakht_text">در انتظار پرداخت</string>
+</resources>
